@@ -5,8 +5,8 @@
         </title>
     </head>
     <body>
-        <a href="grid/index.html">grid</a>
+        <a href="grid/index.php">grid</a>
         <br>
-        <a href="card/index.htm">card</a>
+        <a href="card/index.php">card</a>
     </body>
 </html>
